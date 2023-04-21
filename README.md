@@ -1,53 +1,29 @@
 ---
 published: true
-status: in_progress/complete/archived
-date: 10/19/2018
-tags: tagname
-description:
-slug: title-kebab-case
+status: complete
+date: 04/21/2023
+tags: woodworking, cnc
+description: With kids learning to use the sink in a tight bathroom, I had to cut some corners.
+slug: cut-corner-step-stool
 ---
-# Title
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+
+# Cut Corner Step Stool
+
+With kids learning to use the sink in a tight bathroom, I had to cut some corners.
 
 ## Table of Contents
-- [Title](#title)
+
+- [Cut Corner Step Stool](#cut-corner-step-stool)
   - [Table of Contents](#table-of-contents)
   - [General Info](#general-info)
   - [Technologies](#technologies)
-  - [Setup](#setup)
-  - [Usage](#usage)
-  - [Notes](#notes)
-  - [Sources](#sources)
 
 ## General Info
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+A simple step stool for kids to use the sink with the corner cut out so the door can open and close past it.
+
+I cut this all in 2.5D on the CNC and then added the 67.5-degree angles for the skirt bend on the table saw. Assembly was done with glue and clamps except a couple of nails to hold the skirt angle while drying since it was difficult to clamp.
 
 ## Technologies
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
 
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
-
-## Notes
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-## Sources
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+- Sketchup
